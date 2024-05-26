@@ -1,0 +1,68 @@
+{
+    "$schema": "https://biomejs.dev/schemas/1.7.2/schema.json",
+    "organizeImports": {
+        "enabled": true
+    },
+    "linter": {
+        "enabled": true,
+        "rules": {
+            "all": true,
+            "style": {
+                "useNamingConvention": {
+                    "level": "warn",
+                    "options": {
+                        "strictCase": false
+                    }
+                }
+            }
+        }
+    },
+    "formatter": {
+        "enabled": true,
+        "indentStyle": "space",
+        "indentWidth": 4
+    },
+    "javascript": {
+        "formatter": {
+            "semicolons": "asNeeded"
+        },
+        "globals": ["React"]
+    },
+    "files": {
+        "ignore": [
+            "node_modules/*",
+            ".next/*",
+            ".vercel/*",
+            "app/components/shadcn/*",
+            "app/components/aceternity/*",
+            "package.json"
+        ]
+    },
+    "overrides": [
+        {
+            "include": [
+                "**/page.tsx",
+                "**/layout.tsx",
+                "global-error.tsx",
+                "next.config.mjs"
+            ],
+            "linter": {
+                "rules": {
+                    "style": {
+                        "noDefaultExport": "off"
+                    }
+                }
+            }
+        },
+        {
+            "include": ["app/env.mjs"],
+            "linter": {
+                "rules": {
+                    "style": {
+                        "useNamingConvention": "off"
+                    }
+                }
+            }
+        }
+    ]
+}

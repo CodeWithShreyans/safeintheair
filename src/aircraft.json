@@ -1,0 +1,248 @@
+[
+    {
+        "model": "787 Dreamliner",
+        "odds": "Close to none (for now)",
+        "safe": true,
+        "manufacturer": "Boeing"
+    },
+    {
+        "model": "A350",
+        "odds": "Close to none (for now)",
+        "safe": true,
+        "manufacturer": "Airbus"
+    },
+    {
+        "model": "A380",
+        "odds": "Close to none (for now)",
+        "safe": true,
+        "manufacturer": "Airbus"
+    },
+    {
+        "model": "A319/A320/A321 Neo",
+        "odds": "Close to none (for now)",
+        "safe": true,
+        "manufacturer": "Airbus"
+    },
+    {
+        "model": "A340",
+        "odds": "Close to none (for now)",
+        "safe": true,
+        "manufacturer": "Airbus"
+    },
+    {
+        "model": "Regional Jet",
+        "odds": "Close to none (for now)",
+        "safe": true,
+        "manufacturer": "Mitsubishi"
+    },
+    {
+        "model": "747-8",
+        "odds": "Close to none (for now)",
+        "safe": true,
+        "manufacturer": "Boeing"
+    },
+    {
+        "model": "737 (MD-95)",
+        "odds": "Close to none (for now)",
+        "safe": true,
+        "manufacturer": "Boeing"
+    },
+    {
+        "model": "A300 Beluga",
+        "odds": "Close to none (for now)",
+        "safe": true,
+        "manufacturer": "Airbus"
+    },
+    {
+        "model": "C919",
+        "odds": "Close to none (for now)",
+        "safe": true,
+        "manufacturer": "Comac"
+    },
+    {
+        "model": "Dash 8",
+        "odds": "Close to none (for now)",
+        "safe": true,
+        "manufacturer": "Bombardier"
+    },
+    {
+        "model": "170/190",
+        "odds": "Close to none (for now)",
+        "safe": true,
+        "manufacturer": "Embraer"
+    },
+    {
+        "model": "747-400",
+        "odds": "1 in 16,000,000",
+        "safe": true,
+        "manufacturer": "Boeing"
+    },
+    {
+        "model": "777",
+        "odds": "1 in 8,000,000",
+        "safe": true,
+        "manufacturer": "Boeing"
+    },
+    {
+        "model": "A318/A319/A320/A321 Classic",
+        "odds": "1 in 8,000,000",
+        "safe": true,
+        "manufacturer": "Airbus"
+    },
+    {
+        "model": "737 Next Gen (600/700/800/900)",
+        "odds": "1 in 700,000",
+        "safe": true,
+        "manufacturer": "Boeing"
+    },
+    {
+        "model": "737 Classic (300/400/500)",
+        "odds": "1 in 700,000",
+        "safe": true,
+        "manufacturer": "Boeing"
+    },
+    {
+        "model": "70/100",
+        "odds": "1 in 6,000,000",
+        "safe": true,
+        "manufacturer": "Boeing"
+    },
+    {
+        "model": "340",
+        "odds": "1 in 5,000,000",
+        "safe": true,
+        "manufacturer": "Saab"
+    },
+    {
+        "model": "757",
+        "odds": "1 in 4,000,000",
+        "safe": false,
+        "manufacturer": "Boeing"
+    },
+    {
+        "model": "MD80/MD90",
+        "odds": "1 in 4,000,000",
+        "safe": false,
+        "manufacturer": "McDonnell Douglas"
+    },
+    {
+        "model": "767",
+        "odds": "1 in 3,000,000",
+        "safe": false,
+        "manufacturer": "Boeing"
+    },
+    {
+        "model": "A300-600",
+        "odds": "1 in 3,000,000",
+        "safe": false,
+        "manufacturer": "Airbus"
+    },
+    {
+        "model": "E3 Classic",
+        "odds": "1 in 200,000",
+        "safe": false,
+        "manufacturer": "Boeing"
+    },
+    {
+        "model": "CRJ",
+        "odds": "1 in 3,000,000",
+        "safe": false,
+        "manufacturer": "Bombardier"
+    },
+    {
+        "model": "MD-11",
+        "odds": "1 in 3,000,000",
+        "safe": false,
+        "manufacturer": "McDonnell Douglas"
+    },
+    {
+        "model": "A330",
+        "odds": "1 in 2,000,000",
+        "safe": false,
+        "manufacturer": "Airbus"
+    },
+    {
+        "model": "BAe146/RJ100",
+        "odds": "1 in 2,000,000",
+        "safe": false,
+        "manufacturer": "BAE Systems"
+    },
+    {
+        "model": "A300",
+        "odds": "1 in 2,000,000",
+        "safe": true,
+        "manufacturer": "Airbus"
+    },
+    {
+        "model": "L1011",
+        "odds": "1 in 2,000,000",
+        "safe": false,
+        "manufacturer": "Lockheed"
+    },
+    {
+        "model": "42/72",
+        "odds": "1 in 2,000,000",
+        "safe": false,
+        "manufacturer": "ATR"
+    },
+    {
+        "model": "DC9",
+        "odds": "1 in 2,000,000",
+        "safe": false,
+        "manufacturer": "McDonnell Douglas"
+    },
+    {
+        "model": "737 Original (100/200)",
+        "odds": "1 in 2,000,000",
+        "safe": false,
+        "manufacturer": "Boeing"
+    },
+    {
+        "model": "DC10",
+        "odds": "1 in 2,000,000",
+        "safe": false,
+        "manufacturer": "McDonnell Douglas"
+    },
+    {
+        "model": "Brasilia",
+        "odds": "1 in 1,000,000",
+        "safe": false,
+        "manufacturer": "Embraer"
+    },
+    {
+        "model": "747 (100/200/300/SP)",
+        "odds": "1 in 1,000,000",
+        "safe": false,
+        "manufacturer": "Boeing"
+    },
+    {
+        "model": "A310",
+        "odds": "1 in 700,000",
+        "safe": false,
+        "manufacturer": "Airbus"
+    },
+    {
+        "model": "F28",
+        "odds": "1 in 600,000",
+        "safe": false,
+        "manufacturer": "Fokker"
+    },
+    {
+        "model": "110",
+        "odds": "1 in 300,000",
+        "safe": false,
+        "manufacturer": "Embraer"
+    },
+    {
+        "model": "737 MAX (7/8/9/10)",
+        "odds": "1 in 300,000",
+        "safe": false,
+        "manufacturer": "Boeing"
+    },
+    {
+        "model": "Superjet 100",
+        "odds": "1 in 300,000",
+        "safe": false,
+        "manufacturer": "Sukhoi"
+    }
+]
