@@ -6,7 +6,7 @@ export const siteConfig = {
         linkedin: "https://www.linkedin.com/in/sjain07/",
         twitter: "https://twitter.com/CodeWShreyans",
     } as const,
-    siteName: "Safe in the Air?" as const,
+    siteName: "Safe in the Air" as const,
     creatorName: "Shreyans Jain" as const,
     ogImage: "/opengraph-image" as const,
     url:
