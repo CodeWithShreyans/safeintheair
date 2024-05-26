@@ -8,8 +8,7 @@ export const siteConfig = {
     } as const,
     siteName: "Safe in the Air?" as const,
     creatorName: "Shreyans Jain" as const,
-    // TODO: Add a proper image
-    // ogImage: "/opengraph-image" as const,
+    ogImage: "/opengraph-image" as const,
     url:
         process.env.NODE_ENV === "production"
             ? "https://safeintheair.shreyans.sh"
