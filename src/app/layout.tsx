@@ -3,6 +3,7 @@ import { Link } from "@nextui-org/react"
 import { GeistMono } from "geist/font/mono"
 import { GeistSans } from "geist/font/sans"
 import NextLink from "next/link"
+import Script from "next/script"
 import { Providers } from "./providers"
 
 export const metadata = {
@@ -59,6 +60,11 @@ export default function RootLayout({
                         .
                     </footer>
                 </Providers>
+                <Script
+                    async={true}
+                    data-website-id="958ed8b1-6d14-4a94-848a-e75533b55f43"
+                    src="https://umami.shreyans.sh/script.js"
+                />
             </body>
         </html>
     )
