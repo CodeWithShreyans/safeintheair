@@ -1,6 +1,6 @@
 export const siteConfig = {
     baseKeywords: ["Shreyans Jain", "DestroyerXyz", "Safe in the Air"],
-    description: "Are you safe in the air?" as const,
+    description: "Know if your flight is safe" as const,
     links: {
         github: "https://github.com/CodeWithShreyans/safeintheair",
         linkedin: "https://www.linkedin.com/in/sjain07/",

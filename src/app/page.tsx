@@ -20,9 +20,7 @@ const getFlightData = async (formData: FormData) => {
     if (response.status !== 200) {
         notFound()
     }
-    console.log(response)
     const data = (await response.json()) as { aircraft: { model: string } }[]
-    console.log(data)
     redirect(`/aircraft?model=${data[0]?.aircraft.model}`)
 }
 
